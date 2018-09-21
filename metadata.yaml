@@ -1,5 +1,5 @@
 _repo: Sydan-Kirja-nuorisolle_53878
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Cuore. Finnish
 contributor:
   translator:
@@ -10,6 +10,9 @@ contributor:
     gutenberg_agent_id: '6675'
     url: http://www.gutenberg.org/2009/agents/6675
     wikipedia: http://fi.wikipedia.org/wiki/Maikki_Friberg
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: De Amicis, Edmondo
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7650
     wikipedia: http://it.wikipedia.org/wiki/Edmondo_De_Amicis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53878#Sydan-Kirja-nuorisolle
 gutenberg_issued: '2017-01-03'
 gutenberg_type: Text
 identifiers:
