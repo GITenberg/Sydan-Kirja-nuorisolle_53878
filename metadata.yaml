@@ -1,0 +1,41 @@
+_repo: Sydan-Kirja-nuorisolle_53878
+_version: 0.0.1
+alternative_title: Cuore. Finnish
+contributor:
+  translator:
+    agent_name: Friberg, Maikki
+    alias: Friberg, Maria Elisabeth
+    birthdate: 1861
+    deathdate: 1927
+    gutenberg_agent_id: '6675'
+    url: http://www.gutenberg.org/2009/agents/6675
+    wikipedia: http://fi.wikipedia.org/wiki/Maikki_Friberg
+creator:
+  author:
+    agent_name: De Amicis, Edmondo
+    aliases:
+    - Amicis, Edmundo de
+    - Amicis, Edmondo de
+    - Amichis, Edmondo de
+    birthdate: 1846
+    deathdate: 1908
+    gutenberg_agent_id: '7650'
+    url: http://www.gutenberg.org/2009/agents/7650
+    wikipedia: http://it.wikipedia.org/wiki/Edmondo_De_Amicis
+description: ''
+gutenberg_issued: '2017-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53878'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Diaries -- Juvenile fiction'
+- !lcsh 'Family life -- Italy -- Juvenile fiction'
+- !lcsh 'Italy -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'Sydän: Kirja nuorisolle'
+url: http://www.gutenberg.org/ebooks/53878
